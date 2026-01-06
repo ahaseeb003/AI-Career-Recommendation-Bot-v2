@@ -1,0 +1,11 @@
+role,skills,description
+Data Scientist,"Python, R, SQL, Machine Learning, Statistics, Data Visualization, Pandas, NumPy, Scikit-learn",Data Scientists analyze complex datasets to extract insights and build predictive models using statistical and machine learning techniques
+Software Engineer,"Java, Python, C++, Data Structures, Algorithms, Git, Design Patterns, Testing",Software Engineers design develop and maintain software applications using programming languages and following best practices for code quality
+DevOps Engineer,"Linux, Docker, Kubernetes, CI/CD, Terraform, Ansible, AWS, Monitoring, Scripting",DevOps Engineers automate infrastructure and deployment processes to enable continuous integration and delivery of software
+Frontend Developer,"HTML, CSS, JavaScript, React, Vue, TypeScript, Responsive Design, Web APIs",Frontend Developers create interactive user interfaces and ensure great user experience across different devices and browsers
+Backend Developer,"Node.js, Python, Java, Databases, REST APIs, GraphQL, Authentication, Caching",Backend Developers build server-side logic APIs and databases that power web and mobile applications
+Machine Learning Engineer,"Python, TensorFlow, PyTorch, MLOps, Docker, Cloud Platforms, Model Deployment",Machine Learning Engineers deploy and maintain ML models in production environments ensuring scalability and reliability
+Cloud Engineer,"AWS, Azure, GCP, Terraform, Networking, Security, Serverless, Cost Optimization",Cloud Engineers design and implement cloud infrastructure solutions that are scalable secure and cost-effective
+Cybersecurity Engineer,"Network Security, Penetration Testing, SIEM, Cryptography, Risk Assessment, Incident Response",Cybersecurity Engineers protect organizations from cyber threats through security implementations monitoring and incident response
+Full Stack Developer,"JavaScript, Python, React, Node.js, Databases, DevOps, RESTful APIs",Full Stack Developers work across the entire stack from frontend UI to backend services and databases
+Mobile Developer,"Swift, Kotlin, React Native, Flutter, Mobile UI/UX, APIs, App Store Deployment",Mobile Developers create native or cross-platform mobile applications for iOS and Android devices

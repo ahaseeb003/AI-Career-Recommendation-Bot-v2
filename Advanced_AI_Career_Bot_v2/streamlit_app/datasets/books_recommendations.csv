@@ -1,0 +1,11 @@
+role,book_title,author,description,level,rating
+Data Scientist,Python for Data Analysis,Wes McKinney,Comprehensive guide to data manipulation with pandas NumPy and IPython Perfect for getting started with Python data science tools,Beginner to Intermediate,4.5
+Data Scientist,Hands-On Machine Learning,Aurélien Géron,Practical approach to machine learning with concrete examples intuitive explanations and production-ready Python code,Intermediate,4.7
+Software Engineer,Clean Code,Robert C. Martin,Essential guide to writing readable maintainable and high-quality code that every software engineer should read,All Levels,4.7
+Software Engineer,Cracking the Coding Interview,Gayle Laakmann McDowell,Essential preparation guide for technical interviews with 189 programming problems and solutions,All Levels,4.6
+DevOps Engineer,The Phoenix Project,Gene Kim et al,Novel about IT transformation DevOps and helping business win through technology Great introduction to DevOps culture,All Levels,4.6
+DevOps Engineer,The DevOps Handbook,Gene Kim et al,Practical guide to creating world-class agility reliability and security in technology organizations,Intermediate,4.6
+Machine Learning Engineer,Designing Machine Learning Systems,Chip Huyen,Comprehensive guide to building ML systems that are reliable scalable and maintainable in production,Intermediate to Advanced,4.7
+Frontend Developer,Eloquent JavaScript,Marijn Haverbeke,Modern introduction to programming and JavaScript fundamentals with interactive exercises,Beginner to Intermediate,4.5
+Backend Developer,Designing Data-Intensive Applications,Martin Kleppmann,Big ideas behind reliable scalable and maintainable systems Essential for backend engineers,Advanced,4.8
+Cloud Engineer,AWS Certified Solutions Architect Study Guide,Ben Piper & David Clinton,Comprehensive preparation guide for AWS Solutions Architect certification exam,Intermediate,4.5
